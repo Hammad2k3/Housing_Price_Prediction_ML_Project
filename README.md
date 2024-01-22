@@ -32,3 +32,7 @@ Using Mean Absolute Percentage Error (MAPE) for evaluating each model performanc
 
 - Heatmap for correlation analysis.
 - Bar plots for unique values and distribution of categorical features.
+
+- ## Conclusion
+
+- -According to calculated MAPE Value for each algorithm, SVM has better accuracy compared to the other two algorithms so it is more suitable for our dataset.
